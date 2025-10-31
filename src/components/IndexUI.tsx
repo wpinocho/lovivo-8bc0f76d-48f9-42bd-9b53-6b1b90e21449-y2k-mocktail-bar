@@ -32,9 +32,7 @@ export const IndexUI = ({ featuredProducts, collections, isLoading }: IndexUIPro
               </div>
               
               <h1 className="text-5xl md:text-7xl font-black text-y2k-cyan y2k-text-glow leading-tight">
-                Zero Proof,
-                <br />
-                <span className="text-y2k-cyan-light">Full Flavor</span>
+                estamos juntos!
               </h1>
               
               <p className="text-xl text-y2k-cyan-light/80 leading-relaxed">
